@@ -1,0 +1,9 @@
+{
+  "name": "x",
+  "private":true,
+  "scripts": {
+    "test": "oj t -c \"dotnet run\"",
+    "submit": "acc submit -s -- -l 5003"
+  }
+}
+
